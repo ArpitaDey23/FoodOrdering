@@ -1,0 +1,30 @@
+.benifit-container{
+    height: 400px;
+    width: 100%;
+    /* border: 2px solid red; */
+    text-align: center;
+}
+.benifit-content{
+    display: flex;
+    justify-content:space-evenly;
+    /* border: 4px solid black; */
+    align-items: flex-end;
+    
+}
+.benifit-img1{
+    height: 100%;
+    width: 25%;
+    /* border: 2px solid rebeccapurple; */
+}
+.benifit-img2{
+    height: 100%;
+    width: 25%;
+    /* border: 2px solid rebeccapurple; */
+
+}
+.benifit-img3{
+    height: 100%;
+    width: 25%;
+    /* border: 2px solid rebeccapurple; */
+
+}

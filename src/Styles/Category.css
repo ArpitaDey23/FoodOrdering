@@ -1,0 +1,21 @@
+.button-container{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+   
+}
+.button-parent{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+  
+}
+.button-desing{
+    background: none;
+    border: 1px solid crimson;
+    padding: 12px;
+    width: 120px;
+    cursor: pointer;
+   
+}

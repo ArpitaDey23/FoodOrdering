@@ -1,0 +1,107 @@
+
+  
+
+.login-container{
+    margin-top: 5px;
+    width: 100%;
+    height: 90vh;
+    margin-bottom: 10px;
+    /* border: 2px solid red; */
+}
+.login-content{
+    display: flex;
+    /* border: 3px solid red; */
+    /* justify-content: center;
+    align-items: center; */
+}
+.login-pic{
+    width: 60%;
+    margin-left:5px ;
+    /* height: 80%; */
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+.img-1{
+    height: 100%;
+    width: 25%;
+    /* border: 2px solid black; */
+}
+.img-2{
+    height: 100%;
+    width: 25%;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.img-2-content{
+    height: 30%;
+    width: 100%;
+    /* border: 2px solid red; */
+     
+}
+.img-3{
+    height: 100%;
+    width: 25%;
+    /* border: 2px solid black; */
+}
+.login-form{
+    display:flex ;
+    justify-content: center;
+    /* border: 2px solid black; */
+    width: 40%;
+    align-items: center;
+    height: 100%;
+    /* background-color: rgb(75,120,125); */
+}
+.form{
+    /* border: 2px solid pink; */
+    padding: 40px 20px;
+    border-radius: 20px;
+    text-decoration-color: rgb(255,175,106);
+    height: 80%;
+    width: 50%;
+}
+.input{
+    background-color: rgb(255,175,106);
+}
+.button{
+    border-radius: 50px;
+}
+.btn1{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.login-submit-desing{
+    margin-top: 5px;
+    width: 100%;
+}
+.login-button{
+    width: 50%;
+    color: brown;
+}
+.google{
+    background-color:dodgerblue
+}
+h6{
+    font-weight: 400;
+    display: flex;
+     justify-content: center;
+}
+.login-input{
+    border-radius: 10px;
+    padding: 10px 10px;
+    background-color: aliceblue;
+}
+.icon-desing{
+    width: 78%;
+ display: flex;
+ margin-top: 5px;
+ justify-content: space-evenly;
+}
+em{
+    width: 50%;
+    font-size: small;
+    
+}

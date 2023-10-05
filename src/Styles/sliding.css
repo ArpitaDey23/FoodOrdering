@@ -1,0 +1,39 @@
+.img-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    border: 1px solid red;
+   padding-top: 60px;
+}
+/* .img-desing{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid blue;
+   
+}
+.img{
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    border: 1px solid palevioletred;
+} */
+.button-slidder{
+    margin-left: 20px;
+    display: flex;
+    justify-content: center;
+}
+.button-sliding{
+    background: none;
+    color: white;
+    border:2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    transition: color 0.25s;
+    border-radius: 20px 20px;
+    background-color: crimson;
+  }
